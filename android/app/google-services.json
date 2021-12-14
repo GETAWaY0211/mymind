@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542502657016",
+    "project_id": "emoapp-2fc4c",
+    "storage_bucket": "emoapp-2fc4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542502657016:android:d27049ff69232f2051940d",
+        "android_client_info": {
+          "package_name": "com.example.emotion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542502657016-vm8doon6h0jo9h4smik5ggho9ignaijf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKPQ-uZsISafC2F_VwVAOx6ZX8C6bwVQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542502657016-vm8doon6h0jo9h4smik5ggho9ignaijf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
